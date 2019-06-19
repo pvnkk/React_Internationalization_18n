@@ -19,7 +19,7 @@ function SimpleAppBar(props) {
       <AppBar position="static" color="primary">
         <Toolbar>
           <Typography variant="h5" color="inherit">
-            React Internationalization with i18next
+            Welcome React Internationalization with i18next
           </Typography>
         </Toolbar>
       </AppBar>
